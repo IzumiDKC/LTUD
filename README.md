@@ -1,16 +1,22 @@
-# untitled
-
+# Demo
 A new Flutter project.
 
-## Getting Started
+## 1. Cài đặt Android Studio tại [đây](https://developer.android.com/)
 
-This project is a starting point for a Flutter application.
+## 2. Sau khi chạy Android Studio lên thì vào `File` -> `Plugins` -> Tìm `Flutter` -> Tiến hành cài đặt. Trong quá trình cài đặt nếu có yêu cầu thêm `Dart` thì đồng ý. Nếu không có thì tìm vào cài
 
-A few resources to get you started if this is your first Flutter project:
+Sau khi cài xong sẽ yêu cầu reset project. Nhấn đồng ý
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 3. Cài đặt Flutter SDK tại [đây](https://docs.flutter.dev/get-started/install/windows/mobile) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kéo xuống tìm và tải file như trong [ảnh](https://imgur.com/a/yMq22yn) 
+
+Giải nén ở thư mục muốn chứa
+
+Sau khi giải nén vào thư mục tìm đến file `bin`. Copy đường dẫn thư mục như [ảnh](https://imgur.com/a/v0gSLez)
+
+Tìm và mở [`Environment Variable`](https://imgur.com/a/g6UklVV) -> `Environment Variables...` -> Tại User variables for (Tên) chọn `New` -> Variable Name: Path, Variable Value: đường dẫn vừa copy lúc nảy -> OK. Tiến hành kiểm tra lại
+
+Để kiểm tra vào Android Studio -> `File` -> `New Flutter Project...` -> Khởi chạy mặc định chọn trình duyệt chorme như [hình](https://imgur.com/a/E8kd8Of) là xong.
+
+
