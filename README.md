@@ -3,7 +3,7 @@ A new Flutter project.
 
 ## 1. Cài đặt Android Studio tại [đây](https://developer.android.com/)
 
-## 2. Cài dặt Plugins Flutter
+## 2. Cài đặt Plugins Flutter
 
 Sau khi chạy Android Studio lên thì vào `File` -> `Plugins` -> Tìm `Flutter` -> Tiến hành cài đặt. Trong quá trình cài đặt nếu có yêu cầu thêm `Dart` thì đồng ý. Nếu không có thì tìm và tiến hành cài đặt
 
